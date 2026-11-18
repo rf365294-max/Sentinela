@@ -1,0 +1,2 @@
+# Sentinela
+Aplicativo Brawser sentinela
